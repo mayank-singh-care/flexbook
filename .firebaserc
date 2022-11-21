@@ -1,0 +1,11 @@
+{
+  "targets": {
+    "socialbook-c337d": {
+      "hosting": {
+        "facebook": [
+          "socialbook-c337d"
+        ]
+      }
+    }
+  }
+}
